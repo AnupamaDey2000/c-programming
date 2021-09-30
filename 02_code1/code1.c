@@ -1,5 +1,5 @@
 
-int max (int numbwe1, int numbwe2) {
+int max (int number1, int number2) {
   if (number1>number2){//check if num1 is greater than num2                                                                                   
     return num1;//if so, your answer is num1                                                                                            
   }
